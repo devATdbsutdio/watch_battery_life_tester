@@ -1,3 +1,4 @@
 *.json
 .client_id.json.backup
 *.png
+*.txt
